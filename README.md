@@ -4,7 +4,7 @@
 I'm a Computational Engineering Student and an aspiring Software Developer
 
 - 🌱 I’m currently learning Spring Boot 
-- ⚡ Fun fact: I love coffee, watching movies and reading comics 
+- ⚡ Fun fact: I love coffee, watching movies and reading  
 
 ## My Skills 
 **Languages:** `HTML` `CSS` `JavaScript` `Java` `Python` `Julia`  
