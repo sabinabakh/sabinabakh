@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sabina!
 
-## Abou me
+## About me
 I'm a Computational Engineering Student and an aspiring Software Developer. 
 
 - 🌱 I’m currently learning Spring Boot 
