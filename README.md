@@ -3,7 +3,6 @@
 ## Abou me
 I'm a Computational Engineering Student and an aspiring Software Developer. 
 
-- 🔭 I’m currently working on the 'Smart Garbage Bin' project
 - 🌱 I’m currently learning Spring Boot 
 - 🤝 You can find me on [LinkedIn](www.linkedin.com/in/sabina-bakhtiiarova)
 - ⚡ Fun fact: I love coffee, watching movies and reading comics 
