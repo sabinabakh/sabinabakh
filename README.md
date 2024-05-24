@@ -10,7 +10,9 @@ I'm a Computational Engineering Student and an aspiring Software Developer
 **Languages:** `HTML` `CSS` `JavaScript` `TypeScript` `Java` `Python` `Julia`  
 
 **Frontend Development:** `Vue.js` `React` 
+
 **Backend Development:** `Node.js` `Flask` 
+
 **Fullstack Development:** `Next.js` 
 
 <!--- **sabinabakh/sabinabakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
