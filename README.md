@@ -3,17 +3,14 @@
 ## About me
 I'm a Computational Engineering Student and an aspiring Software Developer
 
-- 🌱 I’m currently learning Spring Boot 
-- ⚡ Fun fact: I love watching movies and reading  
-
 ## My Skills 
 **Languages:** `HTML` `CSS` `JavaScript` `TypeScript` `Java` `Python` `Julia`  
 
 **Frontend Development:** `Vue.js` `React` 
 
-**Backend Development:** `Node.js` `Flask` 
+**Backend Development:** `Node.js` `Flask` `Spring Boot` 
 
-**Fullstack Development:** `Next.js` 
+**Fullstack Development:** `Next.js` `Nest.js`
 
 <!--- **sabinabakh/sabinabakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
