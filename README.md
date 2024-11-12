@@ -8,9 +8,9 @@ I'm a Computational Engineering Student and an aspiring Software Developer
 
 **Frontend Development:** `Vue.js` `React` 
 
-**Backend Development:** `Node.js` `Flask` `Spring Boot` 
+**Backend Development:** `Node.js` `Flask` `Spring Boot` `Nest.js`
 
-**Fullstack Development:** `Next.js` `Nest.js`
+**Fullstack Development:** `Next.js` 
 
 <!--- **sabinabakh/sabinabakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
